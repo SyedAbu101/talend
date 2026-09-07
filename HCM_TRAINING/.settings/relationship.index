@@ -40,4 +40,57 @@
     "version" : "Latest",
     "type" : "routine"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_Uw9ZkKpwEfG5FMVqs4CP6w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_SebpYKgXEfGsYNHkZ56NTg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_SebpYKgXEfGsYNHkZ56NTg - workers",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_smQ3oKhIEfGLCssYCB_Lbw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-XLxAKhHEfGLCssYCB_Lbw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_SebpYKgXEfGsYNHkZ56NTg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_-XLxAKhHEfGLCssYCB_Lbw - assignments",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SebpYKgXEfGsYNHkZ56NTg - workers",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_vrbX8KqcEfG5FMVqs4CP6w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_SebpYKgXEfGsYNHkZ56NTg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_SebpYKgXEfGsYNHkZ56NTg - worker_change_log",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
