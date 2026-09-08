@@ -57,6 +57,21 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_nWbNEKtmEfGCLcpQ2VceNA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "HCM_TRAINING:_Uw9ZkKpwEfG5FMVqs4CP6w",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "HCM_TRAINING:_vrbX8KqcEfG5FMVqs4CP6w",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_smQ3oKhIEfGLCssYCB_Lbw",
     "version" : "0.1",
     "type" : "job"
@@ -85,11 +100,27 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "_qhzWMKthEfGCLcpQ2VceNA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_-XLxAKhHEfGLCssYCB_Lbw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "_SebpYKgXEfGsYNHkZ56NTg",
     "version" : "Latest",
     "type" : "property"
   }, {
+    "id" : "_SebpYKgXEfGsYNHkZ56NTg - assignments",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
     "id" : "_SebpYKgXEfGsYNHkZ56NTg - worker_change_log",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SebpYKgXEfGsYNHkZ56NTg - workers",
     "version" : "Latest",
     "type" : "schema"
   } ]

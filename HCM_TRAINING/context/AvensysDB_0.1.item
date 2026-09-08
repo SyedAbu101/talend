@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_qiDN0KthEfGCLcpQ2VceNA" confirmationNeeded="false" hide="true" name="Default">
+    <contextParameter xmi:id="_qiDN0athEfGCLcpQ2VceNA" comment="" name="dbUrl" prompt="dbUrl?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_qiDN0qthEfGCLcpQ2VceNA" comment="" name="dbPath" prompt="dbPath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_gmrpgKtkEfGCLcpQ2VceNA" confirmationNeeded="false" hide="false" name="Production">
+    <contextParameter xmi:id="_gmrpgatkEfGCLcpQ2VceNA" comment="" name="dbUrl" prompt="dbUrl?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="jdbc:sqlite:/Users/syed/Documents/Avensys/Labs/Sep7/avensys_hcm_production.db"/>
+    <contextParameter xmi:id="_gmrpgqtkEfGCLcpQ2VceNA" comment="" name="dbPath" prompt="dbPath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_gmrpg6tkEfGCLcpQ2VceNA" confirmationNeeded="false" hide="false" name="Test">
+    <contextParameter xmi:id="_gmrphKtkEfGCLcpQ2VceNA" comment="" name="dbUrl" prompt="dbUrl?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="jdbc:sqlite:/Users/syed/Documents/Avensys/Labs/Sep7/avensys_hcm_practice.db"/>
+    <contextParameter xmi:id="_gmrphatkEfGCLcpQ2VceNA" comment="" name="dbPath" prompt="dbPath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>
